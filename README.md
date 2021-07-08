@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+ [![Git hub Badge](http://img.shields.io/badge/-Git%20hub-black?style=flat-square&logo=github&link=https://github.com/yul3220/)](https://github.com/yul3220/)
+	
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jyr3220@gmail.com)](mailto:jyr3220@gmail.com)
+  
+  [![Top Langs](https://github-readme-status.vercel.app/api/top-langs/?/username=yul3220&layout=compact)]
+  (https://github.com/yul3220/github-readme-status)
 <!--
 **yul3220/yul3220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
