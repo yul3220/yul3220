@@ -24,8 +24,8 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 <p>
 	
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yul3220&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yul3220&layout=compact&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
 	
 <!--
 **yul3220/yul3220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
